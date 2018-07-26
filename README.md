@@ -7,9 +7,9 @@ Model is trained on 1000 restaurant reviews and is later used to predict whether
 dataset downloaded from https://www.kaggle.com/akram24/restaurant-reviews
 
 # libraries used
-re - Regular expressions
-nltk - Natural language toolkit
-numpy
-pandas
-sklearn
+re - Regular expressions, 
+nltk - Natural language toolkit, 
+numpy, 
+pandas, 
+sklearn, 
  
